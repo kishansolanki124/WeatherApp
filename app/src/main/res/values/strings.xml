@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="no_internet">Internet connection not available.</string>
+    <string name="invalid_input">It seems search field is empty.</string>
+    <string name="feels_like">Feels like %1$s °C.</string>
+    <string name="sunrise_at">Sunrise at %1$s</string>
+    <string name="sunset_at">Sunset at %1$s</string>
+    <string name="wind_speed">wind speed %1$d meter/sec.</string>
+    <string name="city_country">%1$s, %2$s</string>
+    <string name="city_hint">Enter city name</string>
+    <string name="search">SEARCH</string>
+    <string name="location">LOCATION</string>
+    <string name="city_not_found">City not found.</string>
+</resources>
